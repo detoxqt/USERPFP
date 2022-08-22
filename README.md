@@ -17,12 +17,12 @@ Maximum gif size is set to **12MB** !
 Install [this](https://raw.githubusercontent.com/pikaioff/USERPFP/main/USERPFP.theme.css) and place it in your **themes** folder
 
 This will import USERPFP for everyone can see your custom pfp and you see custom pfps of everyone
-### 2. for [PowerCord](https://powercord.dev/) user, Clone the repo
+### 2. for [Replugged](https://replugged.dev/) user, Clone the repo
 
 Clone the repo with these commands (using [git](https://git-scm.com/downloads))
 
 ```bash
- cd powercord\src\Powercord\themes && git clone https://github.com/pikaioff/USERPFP/
+ cd replugged\src\Powercord\themes && git clone https://github.com/pikaioff/USERPFP/
  ```
 
 ### 3. Use it as a snippet
