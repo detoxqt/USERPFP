@@ -75,6 +75,11 @@
  content: url('https://pikaioff.tk/sharex/qbryb.png');
 }
 
+.participant-1l6khj [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] 
+{
+ content: url('https://pikaioff.tk/sharex/qbryb.png');
+}
+
 .contents-2MsGLg:hover [src^="https://cdn.discordapp.com/avatars/658502865257496606/"] {
     content: url('https://pikaioff.tk/sharex/pokhj.gif');
 }
