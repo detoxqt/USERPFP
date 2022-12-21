@@ -1,26 +1,30 @@
 /* Custom badge for Pikai, Asaki, B1B and the main bot */
 
-#app-mount [aria-label="Pikai🌈✨"] .badgeList-2aoHPw::before,
-#app-mount [aria-label="Pikai🌈✨"] .profileBadges-2pItdR::before,
-#app-mount [aria-label="Pikai🌈✨"] .badges-XRnWAp::before {
+#app-mount [aria-label="Tvby"] .badgeList-2aoHPw::before,
+#app-mount [aria-label="Tvby"] .profileBadges-2pItdR::before,
+#app-mount [aria-label="Tvby"] .badges-XRnWAp::before {
   content: "";
   width: 22px;
   height: 22px;
   background: url(https://i.pinimg.com/originals/91/3f/bd/913fbdf644301e42ca0ac10daf32a3db.png) center / 100% 100%;
 }
-
-#app-mount [aria-label="Asaki"] .badgeList-2aoHPw::before,
-#app-mount [aria-label="Asaki"] .profileBadges-2pItdR::before,
-#app-mount [aria-label="Asaki"] .badges-XRnWAp::before {
+.userAvatar-3Hwf1F [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] {
+    content: url('https://pikaioff.tk/sharex/qbryb.png');
+}
+#app-mount [aria-label="crxsh,🇹🇷"] .badgeList-2aoHPw::before,
+#app-mount [aria-label="crxsh,🇹🇷"] .profileBadges-2pItdR::before,
+#app-mount [aria-label="crxsh,🇹🇷"] .badges-XRnWAp::before {
   content: "";
   width: 22px;
   height: 22px;
   background: url(https://cdn.discordapp.com/emojis/1000862394421084351.webp) center / 100% 100%;
 }
-
-#app-mount [aria-label="B1B"] .badgeList-2aoHPw::before,
-#app-mount [aria-label="B1B"] .profileBadges-2pItdR::before,
-#app-mount [aria-label="B1B"] .badges-XRnWAp::before {
+.userAvatar-3Hwf1F [src^="https://cdn.discordapp.com/avatars/820011858261573683/"] {
+    content: url('https://cdn.discordapp.com/attachments/941739137038417940/1011312195449135145/unknown.png');
+}
+#app-mount [aria-label="4Sy7D"] .badgeList-2aoHPw::before,
+#app-mount [aria-label="4Sy7D"] .profileBadges-2pItdR::before,
+#app-mount [aria-label="4Sy7D"] .badges-XRnWAp::before {
   content: "";
   width: 22px;
   height: 22px;
@@ -39,36 +43,36 @@
 /* DATABASE FOR EVERYONE USING THIS THEME SEE CUSTOM PFPS ! */
 
 .contents-2MsGLg:hover [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] {
-    content: url('https://pikaioff.tk/sharex/vfefm.gif');
+    content: url('https://pikaioff.tk/sharex/d2mp2.gif');
 }
 
 .contents-2MsGLg [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] {
-    content: url('https://cdn.discordapp.com/attachments/941739137038417940/997512341233078353/unknown.png');
+    content: url('https://pikaioff.tk/sharex/qbryb.png');
 }
 
 .wrapper-1VLyxH [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] {
-    content: url('https://pikaioff.tk/sharex/vfefm.gif');
+    content: url('https://pikaioff.tk/sharex/d2mp2.gif');
 }
 
 .layout-1qmrhw [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] {
-    content: url('https://cdn.discordapp.com/attachments/941739137038417940/997512341233078353/unknown.png');
+    content: url('https://pikaioff.tk/sharex/qbryb.png');
 }
 
 .container-YkUktl:hover [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] {
-    content: url('https://pikaioff.tk/sharex/vfefm.gif');
+    content: url('https://pikaioff.tk/sharex/d2mp2.gif');
 }
 
 .container-YkUktl [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] {
-    content: url('https://cdn.discordapp.com/attachments/941739137038417940/997512341233078353/unknown.png');
+    content: url('https://pikaioff.tk/sharex/qbryb.png');
 }
 
 .avatar-1HDIsL [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] {
-    content: url('https://cdn.discordapp.com/attachments/941739137038417940/997512341233078353/unknown.png');
+    content: url('https://pikaioff.tk/sharex/qbryb.png');
 }
 
 .participant-1l6khj [src^="https://cdn.discordapp.com/avatars/792331345917509652/"] 
 {
- content: url('https://cdn.discordapp.com/attachments/941739137038417940/997512341233078353/unknown.png');
+ content: url('https://pikaioff.tk/sharex/qbryb.png');
 }
 
 .contents-2MsGLg:hover [src^="https://cdn.discordapp.com/avatars/658502865257496606/"] {
