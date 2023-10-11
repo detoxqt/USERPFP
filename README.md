@@ -6,7 +6,7 @@
 ## Request your own pfp !
 * Join the [Beudave's - PFP](https://discord.gg/52Nc5Qry4t) discord server, go in this channel [#pfps-request](https://discord.com/channels/910633360332849214/989123375064580177/) and wait for hbe accepted.
 
-**All requests are accepted/denied manually** by Pikai. You should **wait a litle moment** before your PFP **is accepted and added.**
+**All requests are accepted/denied manually** by Beudave. You should **wait a litle moment** before your PFP **is accepted and added.**
 
 Maximum gif size is set to **12MB** !
 
@@ -14,7 +14,7 @@ Maximum gif size is set to **12MB** !
 
 ### 1. for [BetterDiscord](https://betterdiscord.app/) user, Use the theme
 
-Install [this](https://raw.githubusercontent.com/pikaioff/USERPFP/main/USERPFP.theme.css) and place it in your **themes** folder
+Install [this](https://raw.githubusercontent.com/beudave/USERPFP/main/USERPFP.theme.css) and place it in your **themes** folder
 
 This will import USERPFP for everyone can see your custom pfp and you see custom pfps of everyone
 ### 2. for [Replugged](https://replugged.dev/) user, Clone the repo
@@ -22,7 +22,7 @@ This will import USERPFP for everyone can see your custom pfp and you see custom
 Clone the repo with these commands (using [git](https://git-scm.com/downloads))
 
 ```bash
- cd replugged\src\Powercord\themes && git clone https://github.com/pikaioff/USERPFP/
+ cd replugged\src\Powercord\themes && git clone https://github.com/beudave/USERPFP/
  ```
 
 ### 3. Use it as a snippet
@@ -30,8 +30,8 @@ Clone the repo with these commands (using [git](https://git-scm.com/downloads))
 Add this CSS code in your custom-css setting.
 
 ```css
-@import url("https://pikaioff.github.io/USERPFP/src/dist/source.css");
+@import url("https://beudave.github.io/USERPFP/src/dist/source.css");
 ```
 
 ### 4. UserPFP for Android
-**FOR THE MOMENT I DONT HAVE THE PROJECT TO MAKE IT FOR ANDROID**
+**FOR THE MOMENT I DONT HAVE THE TIME TO MAKE IT FOR ANDROID**
