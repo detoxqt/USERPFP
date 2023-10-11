@@ -4,7 +4,7 @@
 <p align="center"><img height="350" align="center" src="https://cdn.discordapp.com/attachments/941739137038417940/989131870933508096/lv_0_20220622133603.gif"></p>
 
 ## Request your own pfp !
-* Join the [Pikai & B1B's Gate](https://discord.gg/52Nc5Qry4t) discord server, go in this channel [#pfps-request](https://discord.com/channels/910633360332849214/989123375064580177/) and wait for hbe accepted.
+* Join the [Beudave's - PFP](https://discord.gg/52Nc5Qry4t) discord server, go in this channel [#pfps-request](https://discord.com/channels/910633360332849214/989123375064580177/) and wait for hbe accepted.
 
 **All requests are accepted/denied manually** by Pikai. You should **wait a litle moment** before your PFP **is accepted and added.**
 
